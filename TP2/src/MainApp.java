@@ -9,7 +9,8 @@ public class MainApp {
 		
 		Scanner scan = new Scanner(System.in);     
 		
-		String descripcionProducto = "",fraseNueva = "";
+		String descripcionProducto = "";
+		String fraseNueva = "";
 		
 		int cantidadProducto = 0;
 		
